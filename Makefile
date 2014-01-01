@@ -1,0 +1,4 @@
+
+
+all:
+	corebuild smurf.native
